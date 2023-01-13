@@ -7,3 +7,6 @@ Using
 - UltraLeap 
   - Unity Plugin 6.4.0
   - Tracking SDK 5.7.2
+  
+  
+Note that the outline hand has weird long finger artifact and we are trying to fix
