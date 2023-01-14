@@ -1,4 +1,4 @@
-# LookingGlass.w.UltraLeap2023 in MIT Reality Hack 2023
+# LookingGlass.w.UltraLeap @ MIT Reality Hack 2023
 
 Using 
 - Looking Glass 
